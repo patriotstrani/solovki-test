@@ -1,0 +1,14 @@
+.card{
+	float: left;
+}
+
+.card1{
+	float: right;
+	margin-right: 1050px;
+}
+
+.card2{
+	float: right;
+	margin-right: 800px;
+	margin-top: -345.2;
+}
